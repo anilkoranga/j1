@@ -1,5 +1,5 @@
 pipeline {
-    agen {
+    agent {
         label 'node1'
     }
     tools {
